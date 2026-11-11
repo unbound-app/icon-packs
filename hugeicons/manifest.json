@@ -4,11 +4,11 @@
 	"description": "Discord's icons redrawn with Hugeicons' free stroke-rounded set.",
 	"authors": [
 		{
-			"name": "adrian",
-			"id": "224617799434108928"
+			"name": "eternal",
+			"id": "263689920210534400"
 		}
 	],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"icon": "ImageIcon",
 	"main": "icons.json",
 	"type": "icon-pack"
