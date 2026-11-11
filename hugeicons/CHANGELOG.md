@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.1]
+
+### Changed
+
+- The store banner shows the icons on a transparent background.
+
 ## [1.1.0]
 
 ### Added
