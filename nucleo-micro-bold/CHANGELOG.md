@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2]
+
+### Added
+
+- Covers 129 more of Discord's icons, including the Marketplace shop icon.
+
 ## [1.0.1]
 
 ### Changed
