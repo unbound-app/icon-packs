@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2]
+
+### Changed
+
+- Icons built from a glyph and a small corner badge (lock, plus, warning and the like) draw the badge with the same stroke width as the glyph.
+
 ## [1.0.1]
 
 ### Changed
