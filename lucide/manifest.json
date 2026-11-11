@@ -1,0 +1,15 @@
+{
+	"id": "unbound.lucide",
+	"name": "Lucide",
+	"description": "Discord's icons redrawn with Lucide.",
+	"authors": [
+		{
+			"name": "eternal",
+			"id": "263689920210534400"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "ImageIcon",
+	"main": "icons.json",
+	"type": "icon-pack"
+}
