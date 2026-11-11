@@ -1,0 +1,15 @@
+{
+	"id": "unbound.nucleo-micro-bold",
+	"name": "Nucleo Micro Bold",
+	"description": "Discord's icons redrawn with Nucleo Micro Bold.",
+	"authors": [
+		{
+			"name": "eternal",
+			"id": "263689920210534400"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "ImageIcon",
+	"main": "icons.json",
+	"type": "icon-pack"
+}
