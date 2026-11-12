@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4]
+
+### Added
+
+- Draws the Bluesky, Itch, Minecraft, Nintendo Switch, Roblox and Xbox logos, which Phosphor lacks, in its regular weight.
+
 ## [1.0.3]
 
 ### Added

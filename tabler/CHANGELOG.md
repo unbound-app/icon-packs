@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4]
+
+### Added
+
+- Draws the Roblox logo, which Tabler lacks, in its outline style.
+
 ## [1.0.3]
 
 ### Added
