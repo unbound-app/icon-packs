@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4]
+
+### Added
+
+- Draws the 20 brand logos Lucide lacks (Apple, Discord, Steam, Xbox and the rest) in its outline style, so no icon keeps Discord's look.
+
 ## [1.0.3]
 
 ### Added

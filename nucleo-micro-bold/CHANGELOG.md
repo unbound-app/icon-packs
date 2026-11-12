@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3]
+
+### Added
+
+- Draws the 19 brand logos Nucleo lacks (Discord, Steam, Xbox and the rest) as solid Micro Bold glyphs, instead of keeping Discord's.
+
 ## [1.0.2]
 
 ### Added

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4]
+
+### Added
+
+- Draws the Google Play logo with Hugeicons' own.
+- Draws the Itch, Minecraft, Steam and Xbox logos, which Hugeicons lacks, in its stroke-rounded style.
+
 ## [1.1.3]
 
 ### Added
