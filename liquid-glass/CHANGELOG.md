@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1]
+
+### Fixed
+
+- Draws the Marketplace shop icon, thumbs up and down, and 13 more icons in glass. The original pack had left them as flat grey copies of Discord's.
+- Drops a Discord illustration the original pack shipped unchanged.
+
 ## [1.0.0]
 
 ### Added
