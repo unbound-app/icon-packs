@@ -1,0 +1,15 @@
+{
+	"id": "unbound.liquid-glass",
+	"name": "Liquid Glass",
+	"description": "Discord's icons redrawn as frosted glass, after dor4a's Liquid Glass pack.",
+	"authors": [
+		{
+			"name": "eternal",
+			"id": "263689920210534400"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "ImageIcon",
+	"main": "icons.json",
+	"type": "icon-pack"
+}
