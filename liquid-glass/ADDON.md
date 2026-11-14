@@ -4,7 +4,7 @@ banner: media/banner.png
 
 ## :sparkle: What it does
 
-- :photo: Redraws 771 of Discord's icons as frosted glass, ported from [dor4a's Liquid Glass pack](https://github.com/dora727/doraa-pyoncordstuff/tree/master/Packs/LiquidGlass).
+- :photo: Redraws 770 of Discord's icons as frosted glass, ported from [dor4a's Liquid Glass pack](https://github.com/dora727/doraa-pyoncordstuff/tree/master/Packs/LiquidGlass).
 - :palette: Covers the redesigned icons and the older coloured ones, in tabs, settings, menus and chat.
 - :brush: Icons the original pack left to Discord are drawn in its glass style.
 
